@@ -11,7 +11,7 @@ const About = () => {
             <h2>Hello Everyone <br/></h2>
             <h3>
               <p>
-                I am a B.E<b>,</b> Computer Science and Engineering Graduate<b>. </b>
+                I am a B.E CSE<b>,</b> Computer Science and Engineering Graduate<b>. </b>
                 I am currently looking for an organization where i can enhance my skills and contribute my best<b>. </b>
                 I have more intrest in webdevelopment and i have learned ReactJS from the official react documentation website<b>. </b>
                 So i have some basic knowledge of ReactJS and created a portfolio in react to showcase my skills<b>. </b>
