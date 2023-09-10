@@ -44,6 +44,10 @@ const Skills = () => {
                 <div>
                     <LinearProgress variant="determinate" value={70} />
                 </div>
+                <h1>.NET</h1>
+                <div>
+                    <LinearProgress variant="determinate" value={60} />
+                </div>
             </div>
         </div>
     </Element>
